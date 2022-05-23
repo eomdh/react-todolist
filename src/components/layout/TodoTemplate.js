@@ -15,27 +15,22 @@ function TodoTemplate() {
   const [todos, setTodos] = useState([
     {
       id: 1,
-      text: '프로젝트 생성하기',
+      text: 'TO DO LIST 만들기',
       done: true
     },
     {
       id: 2,
-      text: '컴포넌트 스타일링하기',
+      text: '리액트 공부하기',
       done: true
     },
     {
       id: 3,
-      text: 'Context 만들기',
+      text: '리액트 예제 실습하기',
       done: false
     },
-    {
-      id: 4,
-      text: '기능 구현하기',
-      done: false
-    }
   ])
 
-  const nextId = useRef(5);
+  const nextId = useRef(4);
 
   return (    
     <TodoTemplateBlock>
