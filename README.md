@@ -7,7 +7,7 @@ React.js를 학습을 목적으로 제작하게 된 TodoList입니다.
 ## 📄 개요
 * React.js를 학습하기 위해 간단하게 구현한 TodoList입니다.
 * [벨로퍼트님 강의](https://react.vlpt.us/mashup-todolist/)를 참고하였습니다.
-* axios로 OpenWeatherMap API를 호출하여 현재 자신이 있는 도시의 날씨 정보를 표시하는 기능을 추가하였습니다.
+* axios로 OpenWeatherMap API를 호출하여 날씨 정보를 표시하는 기능을 추가하였습니다.
 * React-Calendar 라이브러리를 활용하여 달력 기능을 추가하였습니다.  
 
 ## 🛠 사용 기술
