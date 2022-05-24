@@ -1,22 +1,23 @@
-# Intro
-* React를 학습하기 위해 velopert님의 <벨로퍼트와 함께하는 모던 리액트: 멋짓 투두리스트 만들기>를 클론코딩하였습니다.
+# 📅 React-TodoList
+React.js를 학습을 목적으로 제작하게 된 TodoList입니다.  
+[링크](https://eomdh.github.io/todolist/)
+
+# 📄 개요
+* React를 학습하기 위해 간단하게 구현한 TodoList입니다.
+* [벨로퍼트님 강의](https://react.vlpt.us/mashup-todolist/)를 참고하였습니다.
 * axios로 OpenWeatherMap API를 호출하여 현재 자신이 있는 도시의 날씨 정보를 표시하는 기능을 추가하였습니다.
 * React-Calendar 라이브러리를 활용하여 달력 기능을 추가하였습니다.
 
+# 🛠 사용 기술
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=black"> 
+
 # Composition
- > ## TodoList
- > * 현재 날짜 표기
- > * 할 일 추가
- > * 할 일 삭제
- > * 끝낸 일 체크
- > * 남은 일 알림
- > ## Weather
- > * 자신이 있는 국가, 도시 표기
- > * 온도 표기
- > * 날씨 텍스트 표기
- > * 날씨 아이콘 표기
- > ## Calendar
- > * 현재 날짜 초기 선택
- > * 상단 네비게이션 버튼으로 이동
+## Todolist
+1. 현재 날짜 표시
+2. 할 일 추가
+3. 할 일 제거
+4. 
+## Weather
+## Calendar
 
 # Review
