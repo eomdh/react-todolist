@@ -1,6 +1,8 @@
 # 📅 React-TodoList
+![initial](https://user-images.githubusercontent.com/106085557/170022709-b9736c2d-8f8b-4308-b6bc-ef3a291ce8fa.JPG)       
+
 React.js를 학습을 목적으로 제작하게 된 TodoList입니다.  
-[링크](https://eomdh.github.io/todolist/)  
+링크 : [https://eomdh.github.io/todolist/](https://eomdh.github.io/todolist/)
 
 ## 📄 개요
 * React.js를 학습하기 위해 간단하게 구현한 TodoList입니다.
